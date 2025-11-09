@@ -1,0 +1,28 @@
+#Git ignore file types
+
+# Python cache and environment
+__pycache__/
+*.pyc
+venv/
+.env
+
+# Logs and databases
+*.log
+*.db
+*.sqlite3
+
+# Node modules (if any)
+node_modules/
+
+# IDE or editor files
+.vscode/
+.idea/
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Docker-related
+*.pid
+*.tar
+*.sock
