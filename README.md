@@ -16,7 +16,7 @@ This project was made using PHP and SQL
 
 # File Structure
 
-├Jail-website/
+├──Jail-website/
 ├──  .gitignore/
 ├──  Main_page.php/
 ├── other_page.php/
@@ -26,8 +26,8 @@ This project was made using PHP and SQL
 ├── STAFF_page.php/
 ├── visit_page.php/
 |
-│ └──css/
-│       └──style.css/
-├──
-│ └──php
-│       └──send.php
+├──css/
+└──style.css/
+|
+├──php
+└──send.php
