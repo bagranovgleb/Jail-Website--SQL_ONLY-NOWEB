@@ -15,7 +15,7 @@ This project was made using PHP and SQL
 
 
 # File Structure
-
+```text
 jail-website/
 ├── .gitignore
 ├── Main_page.php
@@ -29,4 +29,5 @@ jail-website/
 │   └── style.css
 ├── php/
 │   └── send.php
+```
 └──send.php
