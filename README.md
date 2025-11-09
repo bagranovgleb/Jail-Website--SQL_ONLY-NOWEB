@@ -16,18 +16,17 @@ This project was made using PHP and SQL
 
 # File Structure
 
-├──Jail-website/
-├──  .gitignore/
-├──  Main_page.php/
-├── other_page.php/
-├── prisoners_page.php/
-├── README.md/
-├── result_page.php/
-├── STAFF_page.php/
-├── visit_page.php/
-|
-├──css/
-└──style.css/
-|
-├──php
+jail-website/
+├── .gitignore
+├── Main_page.php
+├── other_page.php
+├── prisoners_page.php
+├── README.md
+├── result_page.php
+├── STAFF_page.php
+├── visit_page.php
+├── css/
+│   └── style.css
+├── php/
+│   └── send.php
 └──send.php
